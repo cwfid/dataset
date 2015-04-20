@@ -5,6 +5,8 @@ The Crop/Weed Field Image Dataset (CWFID) accompanies the following publication:
 
 This dataset comprises field [images](images), vegetation segmentation [masks](masks) and crop/weed plant type [annotations](annotations). The paper provides details, e.g. on the field setting, acquisition conditions, image and ground truth data format.
 
+You can download the complete dataset here: [Download CWFID](http://github.com/cwfid/dataset/releases).
+
 Paper
 -----
 Paper available [here](http://rd.springer.com/chapter/10.1007%2F978-3-319-16220-1_8).
