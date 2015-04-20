@@ -7,8 +7,7 @@ This dataset comprises field [images](images), vegetation segmentation [masks](m
 
 Paper
 -----
-Available shortly after ECCV.
-
+[Paper available here](http://rd.springer.com/chapter/10.1007%2F978-3-319-16220-1_8).
 
 Use
 ---
